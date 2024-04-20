@@ -1,0 +1,8 @@
+# MOFlinker_MLFF 
+## Instruction
+
+The "deploy.pth" file is the machine learning model for structure optimization. 
+
+The "data" directory contains ligands and their adsorption structures which can be used to calculate the adsorption energies of ethane and ethylene.
+
+Most importantly, we just provide our trained model and Partial data set. Researchers interested in accessing the model and dataset can submit a formal request detailing the intended use of the model and data to F.P. (panfeng@pkusz.edu.cn).

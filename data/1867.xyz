@@ -1,0 +1,6 @@
+4
+properties=species:S:1:move_mask:L:1:pos:R:3 pbc="F F F"
+C F 1.167498 -6e-06 -2.1e-05
+S F -0.65092 2e-06 2e-06
+H T 1.704831 -0.926604 4.8e-05
+H T 1.704902 0.926606 4.8e-05
